@@ -11,4 +11,4 @@ const Question = (props) => {
     );
 };
 
-export defaut Question;
+export default Question;
